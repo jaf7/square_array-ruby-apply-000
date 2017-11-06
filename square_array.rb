@@ -9,4 +9,5 @@ end
 def square_array_with_collect(array)
   array.collect do |element|
     element ** 2
+  end
 end
